@@ -19,7 +19,7 @@ json :
 Liste d'entités nommées enregistrées dans un fichier.json
 Le programme ci-présent est élaboré pour s'éxécuter sur un répertoire, comprenant deux autres niveaux de sous-répertoires avant les fichiers
 
-### Arborescence
+#### Arborescence
 
 Corpus
 
@@ -38,7 +38,7 @@ Corpus
 ## Sorties
 
 Dictionnaires :
-' {
+" {
 
   "ID 0": {
   
@@ -68,25 +68,25 @@ Dictionnaires :
       
     ]
     
-  } ' 
+  } " 
   
-### Arborescence
+#### Arborescence
 
 Corpus
 
--Sous-corpus
+- Sous-corpus
 
---OCR
+-- OCR
 
----Ref
+--- Ref
 
-----fichier.json
+---- fichier.json
 
----OCR
+--- OCR
 
-----fichier.json
+---- fichier.json
 
----fichier_cluster.json
+--- fichier_cluster.json
 
----fichier_non_cluster.json \[liste des fichiers pour lesquels le programme n'a pas pu effectuer le calcul]
+--- fichier_non_cluster.json \[liste des fichiers pour lesquels le programme n'a pas pu effectuer le calcul]
 
