@@ -38,9 +38,9 @@ Corpus
 ## Sorties
 
 Dictionnaires :
-" {
+" {"
 
-  "ID 0": {
+  ""ID 0": {"
   
     "Centro\u00efde": "amaurdeDieu",
     
@@ -50,11 +50,11 @@ Dictionnaires :
     
       "amaurdeDieu"
       
-    ]
+   " ]"
     
-  },
+  "},"
   
-  "ID 1": {
+  ""ID 1": {"
   
     "Centro\u00efde": "bSavoyard",
     
@@ -66,15 +66,15 @@ Dictionnaires :
       
       "bSavoyard"
       
-    ]
+    "]"
     
-  } " 
+  "} " 
   
 #### Arborescence
 
 Corpus
 
-- Sous-corpus
+-Sous-corpus
 
 -- OCR
 
