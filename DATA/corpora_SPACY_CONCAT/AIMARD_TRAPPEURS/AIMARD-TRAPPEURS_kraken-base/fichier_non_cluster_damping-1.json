@@ -1,0 +1,8 @@
+[
+  "../DATA/corpora_SPACY_CONCAT/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_kraken-base/AIMAR-TRAPPEURS_PP/AIMARD_les-trappeurs_PP.txt_sm_spacy.json-concat.json",
+  "../DATA/corpora_SPACY_CONCAT/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_kraken-base/AIMAR-TRAPPEURS_PP/AIMARD_les-trappeurs_PP.txt_md_spacy.json-concat.json",
+  "../DATA/corpora_SPACY_CONCAT/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_kraken-base/AIMAR-TRAPPEURS_PP/AIMARD_les-trappeurs_PP.txt_lg_spacy.json-concat.json",
+  "../DATA/corpora_SPACY_CONCAT/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_kraken-base/AIMAR-TRAPPEURS_MOD/AIMARD_les-trappeurs_Kraken-base.txt_lg_spacy.json-concat.json",
+  "../DATA/corpora_SPACY_CONCAT/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_kraken-base/AIMAR-TRAPPEURS_MOD/AIMARD_les-trappeurs_Kraken-base.txt_sm_spacy.json-concat.json",
+  "../DATA/corpora_SPACY_CONCAT/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_kraken-base/AIMAR-TRAPPEURS_MOD/AIMARD_les-trappeurs_Kraken-base.txt_md_spacy.json-concat.json"
+]

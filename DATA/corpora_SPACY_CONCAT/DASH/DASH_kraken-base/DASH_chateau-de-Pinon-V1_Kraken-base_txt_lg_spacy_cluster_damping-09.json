@@ -1,0 +1,637 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "sirarementIECHATEAUDEPINON",
+    "Freq. centroide": 1,
+    "Termes": [
+      "sirarementIECHATEAUDEPINON"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "tresses,104LECHATEAUDEPINON",
+    "Freq. centroide": 1,
+    "Termes": [
+      "comtesse.i60LECHATEAUDEPINON",
+      "tresses,104LECHATEAUDEPINON"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Ansizy-le-Chttel",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Ansizy-le-Chttel"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Certinement",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Certinement",
+      "Passionuement"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "lallee",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Aller",
+      "Blantchie",
+      "Flandre",
+      "Illes",
+      "Langlee",
+      "Valliere",
+      "Villeroi",
+      "accablee",
+      "gill4e",
+      "laTerre",
+      "lallee"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Heudicourt",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Hautefort",
+      "Hennecourt",
+      "Heudi-",
+      "Heudicourt",
+      "Hleudicourt",
+      "Houdancourt",
+      "Ieudicourt",
+      "Lanissecourt"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Coucy",
+    "Freq. centroide": 15,
+    "Termes": [
+      "Anizy",
+      "Clany",
+      "Corcy",
+      "Corcyf",
+      "Coucy",
+      "Coucy'Y",
+      "Couy",
+      "Cucy",
+      "Rouey",
+      "Tonnay",
+      "Voila",
+      "Voilh",
+      "concetti",
+      "iCouey"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Champagne",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Allemagne",
+      "Champagne",
+      "Chapelainf",
+      "Chavignon",
+      "Chicaneau",
+      "Espagne"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Singulierenature",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Singulierenature"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "UrsulinesdeLaon",
+    "Freq. centroide": 1,
+    "Termes": [
+      "UrsulinesdeLaon",
+      "UrsulinesdeLaonf"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Tarente",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Carmelitesf",
+      "Charente",
+      "Delette",
+      "Majestes",
+      "Persistez",
+      "Providence",
+      "Sainte",
+      "Syrene",
+      "Tarente"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "repondre",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Premontre",
+      "Vousprendre",
+      "repondre",
+      "repondregu"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "cardinaldeRetz",
+    "Freq. centroide": 1,
+    "Termes": [
+      "cardinaldeRetz"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "chreCorcy",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Rochefort",
+      "c0ted'Anizy",
+      "chereCorcy",
+      "chreCorcy"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "MonsieurlLECHATEAUpDE",
+    "Freq. centroide": 1,
+    "Termes": [
+      "MonsieurlLECHATEAUpDE"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "Louis-le-Gros",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Louis-le-Gros"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "damedeCorcy",
+    "Freq. centroide": 2,
+    "Termes": [
+      "damedeCorcy",
+      "madamedeCorcy",
+      "parcd'Anizy"
+    ]
+  },
+  "ID 17": {
+    "Centro\u00efde": "Pourquoidonc",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Pourquoidonc",
+      "Toursblanc"
+    ]
+  },
+  "ID 18": {
+    "Centro\u00efde": "CHAIEAUDEPINON",
+    "Freq. centroide": 1,
+    "Termes": [
+      "CHA1EAUDEPINON",
+      "CHAIEAUDEPINON",
+      "CHATEAUDEPION",
+      "CHAfEADEPINON",
+      "CHIAITLUDEPtNON",
+      "LECHA'EAUDEPINON",
+      "LECHATEAUDEPINON"
+    ]
+  },
+  "ID 19": {
+    "Centro\u00efde": "Picardie",
+    "Freq. centroide": 6,
+    "Termes": [
+      "Picarde",
+      "Picardie",
+      "Richelieu",
+      "tilhomme"
+    ]
+  },
+  "ID 20": {
+    "Centro\u00efde": "pres",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Dites",
+      "Etes",
+      "Grces",
+      "Maures",
+      "Orleans",
+      "Pons",
+      "Quest",
+      "Tres",
+      "Ursulines",
+      "brebis?32",
+      "derobes",
+      "gres",
+      "nees",
+      "pres",
+      "presence",
+      "ques",
+      "resolu",
+      "sesgens",
+      "terales"
+    ]
+  },
+  "ID 21": {
+    "Centro\u00efde": "ckaAEIioN.",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ckaAEIioN."
+    ]
+  },
+  "ID 22": {
+    "Centro\u00efde": "Sint-Jean-d'Acre",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Sint-Jean-d'Acre"
+    ]
+  },
+  "ID 23": {
+    "Centro\u00efde": "comitessedeLameth",
+    "Freq. centroide": 1,
+    "Termes": [
+      "comitessedeLameth"
+    ]
+  },
+  "ID 24": {
+    "Centro\u00efde": "Cosse",
+    "Freq. centroide": 4,
+    "Termes": [
+      "Abbesse",
+      "Camme",
+      "Carrousel",
+      "Conduisez",
+      "Consolee",
+      "Cosse",
+      "Lors-",
+      "Nnsie",
+      "Sissone",
+      "moeil"
+    ]
+  },
+  "ID 25": {
+    "Centro\u00efde": "lesquelsJoguet",
+    "Freq. centroide": 1,
+    "Termes": [
+      "lesquelsJoguet"
+    ]
+  },
+  "ID 26": {
+    "Centro\u00efde": "chateaudeVersailles",
+    "Freq. centroide": 1,
+    "Termes": [
+      "chateaudeFayel",
+      "chateaudeVersailles"
+    ]
+  },
+  "ID 27": {
+    "Centro\u00efde": "g328LECHATEAUDEPINON",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Emi-.LECHATIEAUDEPINON",
+      "g328LECHATEAUDEPINON",
+      "gardeECIATEAUDEPINON",
+      "vain.280LECHATEAUDEPINON"
+    ]
+  },
+  "ID 28": {
+    "Centro\u00efde": "Iais",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Aizy",
+      "Ehiol",
+      "HI1I0",
+      "Iais",
+      "Iciils",
+      "Ilaura",
+      "Iris",
+      "Paris",
+      "Parisf",
+      "Quedois",
+      "Quis'",
+      "Rhin",
+      "Yers",
+      "accs",
+      "maeis",
+      "maine",
+      "pisl",
+      "sa116",
+      "vOus"
+    ]
+  },
+  "ID 29": {
+    "Centro\u00efde": "Mlademoiselle",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Mesdemoiselles",
+      "Mlademoiselle",
+      "Mlademoislle"
+    ]
+  },
+  "ID 30": {
+    "Centro\u00efde": "abbayedePremontre",
+    "Freq. centroide": 1,
+    "Termes": [
+      "abbayedePremontre"
+    ]
+  },
+  "ID 31": {
+    "Centro\u00efde": "damesLCHATEAU",
+    "Freq. centroide": 1,
+    "Termes": [
+      "damesLCHATEAU",
+      "grceLECHEATEAU"
+    ]
+  },
+  "ID 32": {
+    "Centro\u00efde": "La-",
+    "Freq. centroide": 3,
+    "Termes": [
+      "31I",
+      "A01",
+      "CL.---202",
+      "En-",
+      "Jo-",
+      "L.L",
+      "La-",
+      "Laon",
+      "Liee",
+      "Pa-",
+      "Rau-",
+      "da",
+      "gard",
+      "sau-"
+    ]
+  },
+  "ID 33": {
+    "Centro\u00efde": "Ie",
+    "Freq. centroide": 1,
+    "Termes": [
+      "A62",
+      "Cen",
+      "Cest",
+      "E",
+      "Est",
+      "I",
+      "II",
+      "ILE",
+      "IM",
+      "Icle",
+      "Ie",
+      "M",
+      "MI",
+      "MM",
+      "MY",
+      "R",
+      "ceP",
+      "cee",
+      "ge",
+      "hle",
+      "lIl",
+      "lJe",
+      "t97",
+      "uIne"
+    ]
+  },
+  "ID 34": {
+    "Centro\u00efde": "toult.182LL",
+    "Freq. centroide": 1,
+    "Termes": [
+      "toult.182LL"
+    ]
+  },
+  "ID 35": {
+    "Centro\u00efde": "VorraydeGerdere",
+    "Freq. centroide": 1,
+    "Termes": [
+      "VorraydeGerdere"
+    ]
+  },
+  "ID 36": {
+    "Centro\u00efde": "premiereLECHATEAUDSPINON",
+    "Freq. centroide": 1,
+    "Termes": [
+      "premiereLECHATEAUDSPINON"
+    ]
+  },
+  "ID 37": {
+    "Centro\u00efde": "Madamel",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Gahriel",
+      "Madamede",
+      "Madamef",
+      "Madamel",
+      "Madamie",
+      "Mludame.1",
+      "chezMladame"
+    ]
+  },
+  "ID 38": {
+    "Centro\u00efde": "Mortagne",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Artagan",
+      "Bourgogne",
+      "Marchons",
+      "Mortagne",
+      "Normandie"
+    ]
+  },
+  "ID 39": {
+    "Centro\u00efde": "Villers-Cotterets",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Villers-Cotterets"
+    ]
+  },
+  "ID 40": {
+    "Centro\u00efde": "Navailles",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Lavalliere",
+      "Navailles",
+      "Navarre",
+      "Surveillee",
+      "Versailles"
+    ]
+  },
+  "ID 41": {
+    "Centro\u00efde": "PCLL.LLLLL.L",
+    "Freq. centroide": 1,
+    "Termes": [
+      "PCLL.LLLLL.L"
+    ]
+  },
+  "ID 42": {
+    "Centro\u00efde": "Fontainebleau",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Fontainebleau"
+    ]
+  },
+  "ID 43": {
+    "Centro\u00efde": "Pinon",
+    "Freq. centroide": 22,
+    "Termes": [
+      "Aixin",
+      "Allons",
+      "Grignan",
+      "Louisonl",
+      "Nirons",
+      "PINON",
+      "Penlant",
+      "Pi-326",
+      "Pignerol",
+      "Pinon",
+      "Pinonh",
+      "Pinonl",
+      "Sion",
+      "Soissons",
+      "Yoyons",
+      "ainsil",
+      "dePinon"
+    ]
+  },
+  "ID 44": {
+    "Centro\u00efde": "deFrance",
+    "Freq. centroide": 2,
+    "Termes": [
+      "CourdeFrance",
+      "deFrance",
+      "france",
+      "laFrance"
+    ]
+  },
+  "ID 45": {
+    "Centro\u00efde": "Bussy",
+    "Freq. centroide": 36,
+    "Termes": [
+      "Biissy",
+      "Bussy",
+      "Bussy.y"
+    ]
+  },
+  "ID 46": {
+    "Centro\u00efde": "PinonThomasdeVervins",
+    "Freq. centroide": 1,
+    "Termes": [
+      "PinonThomasdeVervins"
+    ]
+  },
+  "ID 47": {
+    "Centro\u00efde": "perduelIIIIIIII",
+    "Freq. centroide": 1,
+    "Termes": [
+      "perduelIIIIIIII"
+    ]
+  },
+  "ID 48": {
+    "Centro\u00efde": "Lameth",
+    "Freq. centroide": 7,
+    "Termes": [
+      "Iameth",
+      "Lalettre",
+      "Lamelh",
+      "Lameth",
+      "Lamethen",
+      "Lamhert",
+      "Lirfeth",
+      "Lumethi"
+    ]
+  },
+  "ID 49": {
+    "Centro\u00efde": "etre",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Annrr.e",
+      "Beaupre",
+      "F0te",
+      "Fort",
+      "Lveque",
+      "Mothe",
+      "Pemsez",
+      "Rentree",
+      "Venise",
+      "eIld6rt",
+      "ecurie",
+      "eeria",
+      "entees",
+      "etre",
+      "etroit",
+      "idoltrie",
+      "regime",
+      "terre",
+      "tre"
+    ]
+  },
+  "ID 50": {
+    "Centro\u00efde": "Cour",
+    "Freq. centroide": 9,
+    "Termes": [
+      "C09Ur",
+      "CciAupE",
+      "Cour",
+      "Cour7",
+      "Crevecaeur",
+      "Croix",
+      "Ilelasoui",
+      "Loui-",
+      "Thurin",
+      "Tours",
+      "houx",
+      "journee"
+    ]
+  },
+  "ID 51": {
+    "Centro\u00efde": "sur-le-chanip",
+    "Freq. centroide": 1,
+    "Termes": [
+      "sur-le-chanip"
+    ]
+  },
+  "ID 52": {
+    "Centro\u00efde": "CHAEAU",
+    "Freq. centroide": 1,
+    "Termes": [
+      "CATEAU",
+      "CHAEAU",
+      "CHAITEAUD",
+      "ECHATLAU"
+    ]
+  },
+  "ID 53": {
+    "Centro\u00efde": "Hlenriette",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Henriettel",
+      "Hlenriette",
+      "Hlesperides",
+      "Ienriette",
+      "dHlenriette",
+      "uecquitte"
+    ]
+  },
+  "ID 54": {
+    "Centro\u00efde": "Bohemiens",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Bohemienne",
+      "Bohemiens",
+      "Bouvines",
+      "Ilsetaient"
+    ]
+  },
+  "ID 55": {
+    "Centro\u00efde": "aubergedeSaint",
+    "Freq. centroide": 1,
+    "Termes": [
+      "aubergedeSaint"
+    ]
+  },
+  "ID 56": {
+    "Centro\u00efde": "MonDieul",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Dieul",
+      "MonDieul",
+      "Ponthieux"
+    ]
+  }
+}

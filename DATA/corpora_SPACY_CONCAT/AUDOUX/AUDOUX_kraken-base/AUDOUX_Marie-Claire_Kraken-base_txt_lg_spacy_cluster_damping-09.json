@@ -1,0 +1,167 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "I",
+    "Freq. centroide": 8,
+    "Termes": [
+      "5'tais",
+      "AF",
+      "Allons",
+      "Brabant",
+      "Ca",
+      "Deslois",
+      "Dieul",
+      "E",
+      "ECE",
+      "EE-",
+      "EEEI",
+      "EH",
+      "EP",
+      "Elleva",
+      "Est",
+      "F",
+      "F--=F",
+      "G",
+      "Gue",
+      "H1",
+      "HI",
+      "Hen-",
+      "I",
+      "I'",
+      "I1",
+      "II",
+      "IN",
+      "INl",
+      "Iean",
+      "Ismerie",
+      "Iy",
+      "Jetais",
+      "L,-eL",
+      "LIh",
+      "LP",
+      "Lse",
+      "M",
+      "MARIE",
+      "N5",
+      "Paques",
+      "Paris",
+      "Pau-",
+      "R",
+      "Rome",
+      "Rvelle",
+      "S",
+      "Sautons",
+      "Seur",
+      "TeN",
+      "Tiens",
+      "Tireli",
+      "VII",
+      "Ville-",
+      "W",
+      "XI",
+      "at",
+      "dos",
+      "ecG",
+      "iA",
+      "lIi",
+      "line",
+      "mY",
+      "n'-",
+      "tEa"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "chataigniers",
+    "Freq. centroide": 1,
+    "Termes": [
+      "chataigniers"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "eglisedeSainte-Montagne",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Sainte-Montagne",
+      "eglisedeSainte-Montagne"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Marie-Aimee",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Lacheter",
+      "Marie-Aimee",
+      "Veronique",
+      "sourMarie-Aimee"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Unpeuavantl'",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Unpeuavantl'"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "CLAIR",
+    "Freq. centroide": 2,
+    "Termes": [
+      "CLAIR",
+      "CLAIRB",
+      "CLAIRE",
+      "Castille",
+      "Chicon",
+      "I1MARIE",
+      "IIARIB",
+      "MARIE-CLAIRB",
+      "MARIR",
+      "MIARIE",
+      "Monsier",
+      "Sologne",
+      "Voila",
+      "fourneau",
+      "l,-MIARIE",
+      "r'AVAIS"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "chemindeVillevieille",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Villevieille",
+      "chemindeVillevieille"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Desiree-des-Anges",
+    "Freq. centroide": 13,
+    "Termes": [
+      "Desiree-des-Anges",
+      "SeurDesiree-des-Anges",
+      "SeurDsiree-des-Anges",
+      "seurDesiree-des-Anges"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "laBlanche",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ChevalBlanc",
+      "Melanie",
+      "Mlanie",
+      "Saint-Iean",
+      "Saint-ean",
+      "Saintes",
+      "Telemaque",
+      "deFrance",
+      "des-Anges",
+      "laBlanche"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "Etoiledumatin",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Etoiledumatin"
+    ]
+  }
+}

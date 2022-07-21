@@ -1,0 +1,179 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "Jure",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Assur\u00e9",
+      "Auriez",
+      "B",
+      "Brugnon",
+      "B\u00e9r\u00e9nice",
+      "Cassiop\u00e9e",
+      "Cette",
+      "C\u00e9ran",
+      "D\u00e9sir\u00e9e",
+      "Figurez",
+      "J'aigagn\u00e9!",
+      "J'aire\u00e7u",
+      "Jeacquet",
+      "Jean-Claude",
+      "Jure",
+      "Or",
+      "Perp\u00e9tue",
+      "Pourquoi",
+      "Puisque",
+      "Rassurez",
+      "Remy",
+      "Rose!",
+      "Sortez",
+      "Tournez",
+      "T\u00e2che",
+      "Votre",
+      "deFrance",
+      "duNord",
+      "laFrance",
+      "mitan"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "colonneVend\u00f4me",
+    "Freq. centroide": 1,
+    "Termes": [
+      "colonneVend\u00f4me"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Saint-Quentin",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Saint-Brunelle",
+      "Saint-Quentin",
+      "Sainte-Radegonde"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "r\u00e9servedelaRose",
+    "Freq. centroide": 1,
+    "Termes": [
+      "r\u00e9servedelaRose"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "N'approchezpas",
+    "Freq. centroide": 1,
+    "Termes": [
+      "N'approchezpas"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Content",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Armandine",
+      "Bassette",
+      "Chanvriers",
+      "Chaussette",
+      "Comprenez",
+      "Content",
+      "Doucettement",
+      "Entendez",
+      "Fillettes",
+      "Jeanneton",
+      "Pardonnez",
+      "Parisiens",
+      "Pourront",
+      "Reviendront",
+      "Toussaint",
+      "\u00c9coutez"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Rosedud\u00e9shonneur",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Rosedud\u00e9shonneur"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Hommes-sans-T\u00eates",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Hommes-sans-T\u00eates"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Sois",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Adonc",
+      "Allons",
+      "Alors",
+      "Arriv\u00e9",
+      "Autrefois",
+      "Bonsoir",
+      "Chut",
+      "Devise",
+      "Faut",
+      "Franciers",
+      "F\u00fbt",
+      "Habile",
+      "J'opine",
+      "LaRose",
+      "Lesoleil",
+      "Maria",
+      "Non",
+      "Norine",
+      "Oh!",
+      "O\u00f9",
+      "Palais",
+      "Paris",
+      "Parisien",
+      "Poulains",
+      "Quoi!",
+      "Rose",
+      "Sens",
+      "Sois",
+      "Supposons",
+      "Tais",
+      "Tiens",
+      "Toinon",
+      "VII",
+      "Voyons",
+      "V\u00e9nus",
+      "petiotDenis"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "Avez",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Agr\u00e9ez",
+      "Ah!",
+      "Alerte",
+      "Alger",
+      "Avez",
+      "Cachez",
+      "Croyez",
+      "II",
+      "Jeveux",
+      "Las!",
+      "Pensez",
+      "Savez",
+      "Soyez",
+      "Tenez",
+      "Va",
+      "Venez",
+      "Vive",
+      "\u00c9tat"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Morlinval",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Jecommen\u00e7ais",
+      "Morlincourt",
+      "Morlinval"
+    ]
+  }
+}

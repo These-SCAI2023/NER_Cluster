@@ -1,0 +1,192 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "Fouillet",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Feuillet",
+      "Fouillet"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Hautes-\n\f\n",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Hautes-\n\f\n",
+      "Hautes-Roches"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Grand",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Blanche",
+      "Bretagne",
+      "Flandre",
+      "Gathorino",
+      "Grand",
+      "Grand-",
+      "Griee",
+      "Issoudun",
+      "Jusserand",
+      "Madam\u00e8",
+      "Ormenux",
+      "Tiens",
+      "Viens",
+      "laFrance",
+      "\u00e9tat"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "P\u00e9rinnerie",
+    "Freq. centroide": 1,
+    "Termes": [
+      "P\u00e9rinnerie",
+      "Rordinerie",
+      "Tr\u00e9chauderie",
+      "lnP\u00e9rinnerie"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "ma\u00eetrosseJusserand",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ma\u00eetrosseJusserand"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "quartierdesHautes-Roches",
+    "Freq. centroide": 1,
+    "Termes": [
+      "quartierdesHautes-Roches"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "sainte-Solange",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Sainte-Solange",
+      "sainte-Solange"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Grand-Bail",
+    "Freq. centroide": 20,
+    "Termes": [
+      "Grand-Bail",
+      "Grand-Bal",
+      "GrandLonis",
+      "loGrand-Bail"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Nannette",
+    "Freq. centroide": 18,
+    "Termes": [
+      "Nannette",
+      "Nannoette",
+      "Nannotte"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "Jeanno",
+    "Freq. centroide": 4,
+    "Termes": [
+      "Allons",
+      "Jeanno",
+      "Jeanve",
+      "Jehnne",
+      "Jennne",
+      "Jesnne",
+      "Jeunno",
+      "Lempes",
+      "Meunet",
+      "Solango",
+      "Sylvun",
+      "champdeJeanne",
+      "deFrance",
+      "doJoanne"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "TROISI\u00c8MEPARTIR",
+    "Freq. centroide": 1,
+    "Termes": [
+      "QUATRI\u00c8MRPARTIR",
+      "TROISI\u00c8MEPARTIR"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "J",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Cher",
+      "Co",
+      "E",
+      "Est",
+      "F",
+      "I",
+      "J",
+      "J1",
+      "Ja",
+      "Jo-",
+      "LU",
+      "R",
+      "VEUVE",
+      "Y",
+      "b\u00e2le",
+      "|",
+      "\u00c7n",
+      "\u00dc"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "fermedesOrmeaux",
+    "Freq. centroide": 1,
+    "Termes": [
+      "fermedesOrmeaux"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "Paris",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Afrique",
+      "Bail",
+      "Bourges",
+      "Ch\u00e9tif-",
+      "Colis",
+      "Faucho",
+      "Grise",
+      "Ianure",
+      "Paris",
+      "Pa\u00fcla",
+      "Sa\u00efs",
+      "gueil",
+      "rass\u00e9",
+      "\u00c9POUSE"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "Inourablesd'Issoudun",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Inourablesd'Issoudun"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "Saint-Jean",
+    "Freq. centroide": 7,
+    "Termes": [
+      "Saint-",
+      "Saint-Jean",
+      "Saint-Pierre"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "Mapauvrefille",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Mapauvrefille"
+    ]
+  }
+}

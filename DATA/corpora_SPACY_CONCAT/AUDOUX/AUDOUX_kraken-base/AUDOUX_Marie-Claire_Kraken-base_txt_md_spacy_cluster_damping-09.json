@@ -1,0 +1,163 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "i",
+    "Freq. centroide": 1,
+    "Termes": [
+      "1'histoire",
+      "A1-",
+      "AR",
+      "Chicon",
+      "E",
+      "ECE",
+      "EE-",
+      "EH",
+      "EP",
+      "F",
+      "F--=F",
+      "G",
+      "Gi",
+      "Gue",
+      "I",
+      "Ismrie",
+      "Jetais",
+      "LP",
+      "Lse",
+      "Merci",
+      "Monsier",
+      "NSJ",
+      "PS",
+      "Paris",
+      "Pau-",
+      "R",
+      "S",
+      "Tiens",
+      "Tireli",
+      "Vin",
+      "W",
+      "i",
+      "i---",
+      "lIi",
+      "nE",
+      "r7G",
+      "xE"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "GuePerdu",
+    "Freq. centroide": 3,
+    "Termes": [
+      "GuPerdu",
+      "GuePerdu",
+      "Perdu",
+      "chateauduGuePerdu"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "chambredeseurMarie-Aimee",
+    "Freq. centroide": 1,
+    "Termes": [
+      "SeurMarie-Aimee",
+      "chambredeseurMarie-Aimee"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Sainte-Montagne",
+    "Freq. centroide": 6,
+    "Termes": [
+      "Saint-Iean",
+      "Sainte-Montagne",
+      "SaintesHuiles"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Gabrielle",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Gabrielle",
+      "Marie-Aimee",
+      "Villevieille",
+      "laBlanche"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "II",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Brabant",
+      "CLAIRB",
+      "Ca",
+      "E--==",
+      "ENp",
+      "Gn",
+      "Gue-",
+      "HI",
+      "I1",
+      "I1MARIE",
+      "II",
+      "IM",
+      "INl",
+      "IlM",
+      "Ioo",
+      "Iy",
+      "L,-eL",
+      "LIh",
+      "MIARIE",
+      "Mla-",
+      "N5",
+      "Sautons",
+      "XI",
+      "cI",
+      "nMARIE",
+      "r'AVAIS",
+      "rS",
+      "tAILI",
+      "tEa",
+      "tI."
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "chemindeVillevieille",
+    "Freq. centroide": 1,
+    "Termes": [
+      "chemindeVillevieille"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Desiree-des-Anges",
+    "Freq. centroide": 19,
+    "Termes": [
+      "Desire-des-Anges",
+      "Desiree-des-Anges",
+      "SeurDesiree-des-Anges",
+      "SeurDsiree-des-Anges"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Celle",
+    "Freq. centroide": 1,
+    "Termes": [
+      "2M1t1l",
+      "Bonne",
+      "Castille",
+      "Celle",
+      "ChevalBlanc",
+      "Deslois",
+      "Emportez",
+      "Hen-",
+      "Ismerie",
+      "M.Alphonse",
+      "Mattre",
+      "Melanie",
+      "Neron",
+      "Prends",
+      "Rome",
+      "Seur",
+      "Sologne",
+      "Telemaque",
+      "deFrance",
+      "des-Anges",
+      "eegAse",
+      "soleil"
+    ]
+  }
+}

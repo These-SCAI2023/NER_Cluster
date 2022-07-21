@@ -1,0 +1,95 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "r\u00e9servedelaRose",
+    "Freq. centroide": 1,
+    "Termes": [
+      "r\u00e9servedelaRose"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Sainte-Radegonde",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Sainte-Radegonde"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Hommes-sans-T\u00eates",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Hommes-sans-T\u00eates"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Saint-Brunelle",
+    "Freq. centroide": 21,
+    "Termes": [
+      "Saint-Brunelle",
+      "Saint-Quentin"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Paris",
+    "Freq. centroide": 8,
+    "Termes": [
+      "Agr\u00e9ez",
+      "Alerte",
+      "Alger",
+      "B",
+      "Cachez",
+      "Croyez",
+      "Dizy",
+      "Franciers",
+      "Gens",
+      "IX",
+      "LaRose",
+      "M'",
+      "Maria",
+      "Morlincourt",
+      "Morlinval",
+      "Norine",
+      "PLAIRA",
+      "Pardine",
+      "Paris",
+      "Parisien",
+      "Parisiens",
+      "Pater",
+      "Poulains",
+      "Retiens",
+      "Riez",
+      "Rose",
+      "Sens",
+      "Sortez",
+      "Tenez",
+      "Toinon",
+      "T\u00e2che",
+      "deFrance",
+      "duNord",
+      "\u00c9tat"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Bassette",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Accept\u00e9",
+      "Bassette",
+      "B\u00e9r\u00e9nice",
+      "Fillettes",
+      "Jeacquet",
+      "Messieurs",
+      "Perp\u00e9tue",
+      "Savoyard",
+      "Toussaint",
+      "laFrance"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "couventBrugnon",
+    "Freq. centroide": 1,
+    "Termes": [
+      "couventBrugnon",
+      "pr\u00e9Brugnon"
+    ]
+  }
+}

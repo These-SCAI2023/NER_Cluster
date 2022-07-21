@@ -1,0 +1,383 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "soleil",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Anglais",
+      "Comprit",
+      "Ellese",
+      "Ilr\u00e9pondit",
+      "Normand",
+      "Palais",
+      "Reminil",
+      "Rollebosc",
+      "Rosalie",
+      "Tolbiac",
+      "grandsoleil",
+      "maisondebois",
+      "soleil"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Batteviile",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Batteviile",
+      "Batteville",
+      "Sainte-H\u00e9l\u00e8ne"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "F\u00e9camp",
+    "Freq. centroide": 6,
+    "Termes": [
+      "Champs",
+      "F\u00e9camp",
+      "pharedeF\u00e9camp"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Ganache",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Ajaccio",
+      "Couche",
+      "ESauvage",
+      "Encaiss\u00e9e",
+      "Ganache",
+      "Lagrande",
+      "Mignonne",
+      "auHavre",
+      "d-Faire",
+      "duHavre",
+      "grand\u2019route",
+      "laFrance",
+      "laSeine",
+      "ligneblanche",
+      "pl\u00e9nches",
+      "rueduSauvage"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Biblioth\u00e8quenationaledeFrance",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Biblioth\u00e8quenationaledeFrance"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "s\u2019'abandonna",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Saint-L\u00e9onard",
+      "s\u2019'abandonna"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Barville",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Barville",
+      "Bassolle",
+      "Beuzeville",
+      "Briseville",
+      "Demoiselles",
+      "L'Am\u00e9rique",
+      "Marseille",
+      "Varneville",
+      "Versailles",
+      "Vrilleite",
+      "V\u00e9ron\u00e8se",
+      "l'Afrique",
+      "terredeBarville"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Poulet",
+    "Freq. centroide": 11,
+    "Termes": [
+      "Bolbec",
+      "Comptez",
+      "Corament",
+      "Dour",
+      "Naples",
+      "ORBEIL",
+      "Paulet",
+      "Poulet",
+      "Providence",
+      "Puis.\u00f4n",
+      "P\u00e9uples",
+      "Rouen",
+      "Sou-",
+      "UNEVIE\n\n",
+      "Vaucotte",
+      "Vrillette",
+      "bonnet",
+      "montRiboudet",
+      "paysdeCaux",
+      "\u00c9touvent"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Allemagne",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Allemagne",
+      "EtJeannes'",
+      "coll\u00e8geduHavre",
+      "golfedeSagone",
+      "l'Empire"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "merhouleuse",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Lam\u00e4redel'Eure",
+      "merhouleuse"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Courville",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Corniche",
+      "Courville",
+      "Fourville",
+      "Goderville",
+      "Montivilliers",
+      "Normande"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "\u00cele",
+    "Freq. centroide": 8,
+    "Termes": [
+      "-de",
+      "Bonj",
+      "Cologne",
+      "Ct'",
+      "DRTS",
+      "Ell\u00e9",
+      "Er-",
+      "Flle",
+      "Florence",
+      "Ile",
+      "Italie",
+      "Mons",
+      "M\u00e9-",
+      "Niolo",
+      "PAUL",
+      "Peu-",
+      "Que",
+      "Qu\u00e4nd",
+      "Topez",
+      "Typ",
+      "VILC",
+      "cher",
+      "ch\u00e9e",
+      "ille",
+      "ils\u2019",
+      "vald'Ota",
+      "xLe",
+      "\u00calle",
+      "\u00cele",
+      "\u00celed\u00e9meura",
+      "\u00celes"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "Notre-DameduGros-Ventre",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Notre-DameduGros-Ventre"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "stravers\u00e8rent",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Gurag\u00e8rent",
+      "seulavecJeanne",
+      "stravers\u00e8rent"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "terre",
+    "Freq. centroide": 2,
+    "Termes": [
+      "1Havre",
+      "Am\u00e9rique",
+      "Angleterre",
+      "Attendu",
+      "COrnUS",
+      "Carg\u00e8se",
+      "Cette",
+      "Chine",
+      "Corse",
+      "Crott",
+      "Gette",
+      "Gr\u00e8ce",
+      "Je\u00e4nne",
+      "Livourne",
+      "Londres",
+      "Mad\u00e8re",
+      "M\u00e9diterran\u00e9e",
+      "Normandie",
+      "Papercut",
+      "Paris",
+      "Provence",
+      "Que\u00efques",
+      "Renard",
+      "Roche",
+      "Shev\u00e8ux",
+      "Suisse",
+      "S\u00e8vres",
+      "Verneuil",
+      "Yerdir",
+      "Yport",
+      "eHavre",
+      "fig\u00fcre",
+      "h\u00f4telde",
+      "leHavre",
+      "leuse",
+      "ntagne",
+      "oudrez",
+      "petiteCorse",
+      "rueduHavre",
+      "terre",
+      "|terre",
+      "\u00c9tretat"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "apportez-les-moi",
+    "Freq. centroide": 1,
+    "Termes": [
+      "apportez-les-moi"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "Dites",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Arr\u00eatons",
+      "Ath\u00e8nes",
+      "Autrefois",
+      "Brise-",
+      "Chicor\u00e9es",
+      "Chinois",
+      "Cigogne",
+      "Cit\u00e9",
+      "C\u00f4te",
+      "Damas",
+      "Dites",
+      "Fes",
+      "G\u00f4der-",
+      "Hauts",
+      "Hieux",
+      "Lison",
+      "Oriental",
+      "Piana",
+      "Quittez",
+      "Situ",
+      "Tenez",
+      "Trois-Mares",
+      "Voyons",
+      "Yection",
+      "Yicomtesse",
+      "secles"
+    ]
+  },
+  "ID 17": {
+    "Centro\u00efde": "H\u00f4teldeNormandie",
+    "Freq. centroide": 1,
+    "Termes": [
+      "H\u00f4teldeNormandie"
+    ]
+  },
+  "ID 18": {
+    "Centro\u00efde": "LeperthuisdesVauds",
+    "Freq. centroide": 1,
+    "Termes": [
+      "LeperthuisdesVauds"
+    ]
+  },
+  "ID 19": {
+    "Centro\u00efde": "Ja",
+    "Freq. centroide": 2,
+    "Termes": [
+      "A",
+      "A5",
+      "Al",
+      "Bastia",
+      "BnF",
+      "BnF\u00bb",
+      "CC",
+      "Cana",
+      "Cany",
+      "Cr",
+      "CrD",
+      "E",
+      "EL",
+      "Es-",
+      "F",
+      "Fi",
+      "Fo",
+      "Ft",
+      "Gela",
+      "G\u00e9-",
+      "H",
+      "I",
+      "IR",
+      "Ja",
+      "Jaimais",
+      "Jeanne",
+      "K",
+      "L341",
+      "LS",
+      "Lac",
+      "Las",
+      "Les",
+      "Lu",
+      "L\u00c9",
+      "Main-",
+      "Mal",
+      "Midi",
+      "Oc\u00e9an",
+      "Ota",
+      "P",
+      "Par-",
+      "Pau",
+      "Royal",
+      "S",
+      "SE",
+      "SO",
+      "Sacr\u00e9",
+      "S\u00e9pa-",
+      "T1",
+      "TR",
+      "Tr",
+      "UNEVIE",
+      "Val",
+      "Vauds",
+      "Veux",
+      "_",
+      "eeCU",
+      "et.cha",
+      "jura",
+      "st",
+      "t\u00e9",
+      "us",
+      "|",
+      "|E",
+      "\u00c8",
+      "\u00c9-",
+      "\u00c9T",
+      "\u00cb",
+      "\u00ce",
+      "\u00cf",
+      "\u00d4t\u00e9"
+    ]
+  }
+}

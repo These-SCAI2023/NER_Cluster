@@ -1,0 +1,77 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "r\u00e9servedelaRose",
+    "Freq. centroide": 1,
+    "Termes": [
+      "r\u00e9servedelaRose"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Hommes-sans-T\u00eates",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Hommes-sans-T\u00eates"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Saint-Brunelle",
+    "Freq. centroide": 21,
+    "Termes": [
+      "Saint-Brunelle",
+      "Saint-Quentin",
+      "Sainte-Radegonde",
+      "couventBrugnon"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Paris",
+    "Freq. centroide": 8,
+    "Termes": [
+      "Accept\u00e9",
+      "Agr\u00e9ez",
+      "Alerte",
+      "Alger",
+      "B",
+      "Bassette",
+      "B\u00e9r\u00e9nice",
+      "Cachez",
+      "Croyez",
+      "Dizy",
+      "Fillettes",
+      "Franciers",
+      "Gens",
+      "IX",
+      "Jeacquet",
+      "LaRose",
+      "M'",
+      "Maria",
+      "Messieurs",
+      "Morlincourt",
+      "Morlinval",
+      "Norine",
+      "PLAIRA",
+      "Pardine",
+      "Paris",
+      "Parisien",
+      "Parisiens",
+      "Pater",
+      "Perp\u00e9tue",
+      "Poulains",
+      "Retiens",
+      "Riez",
+      "Rose",
+      "Savoyard",
+      "Sens",
+      "Sortez",
+      "Tenez",
+      "Toinon",
+      "Toussaint",
+      "T\u00e2che",
+      "deFrance",
+      "duNord",
+      "laFrance",
+      "pr\u00e9Brugnon",
+      "\u00c9tat"
+    ]
+  }
+}
