@@ -1,0 +1,424 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "Alleghany",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Alleghany",
+      "l'Alleghany",
+      "montsAlleghanys",
+      "\u0152il-de-B\u0153uf",
+      "\u0152il-de-b\u0153uf"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Soit",
+    "Freq. centroide": 8,
+    "Termes": [
+      "Asie",
+      "Cher",
+      "Dites",
+      "Fort",
+      "Gris",
+      "Kouha",
+      "Montr\u00e9al",
+      "Nord",
+      "Ohio",
+      "Poitou",
+      "Proscrit",
+      "Soit",
+      "Suis",
+      "T\u00e9ocalis",
+      "Volant"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "baied'Hudson",
+    "Freq. centroide": 4,
+    "Termes": [
+      "baied'Hudson"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Mississipi",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Meschac\u00e9b\u00e9",
+      "Mississipi",
+      "Mississipiens"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "fortN\u00e9cessit\u00e9",
+    "Freq. centroide": 3,
+    "Termes": [
+      "N\u00e9cessit\u00e9",
+      "fortN\u00e9cessit\u00e9",
+      "fortdelaN\u00e9cessit\u00e9"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "golfeduMexique",
+    "Freq. centroide": 1,
+    "Termes": [
+      "golfeduMexique"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Couleuvred\u00e9masqua",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Couleuvred\u00e9masqua"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "porte\u00a0",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Bordeaux",
+      "Ferney",
+      "R\u00e9pondez",
+      "couvent\u00a0",
+      "d\u00e9sert\u00a0",
+      "fortRupert\u00a0",
+      "fort\u00a0",
+      "hutte\u00a0",
+      "plateau\u00a0",
+      "porte\u00a0",
+      "salle\u00a0"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "SautdeMontmorency",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Montmorency",
+      "SautdeMontmorency",
+      "rivi\u00e8redeMontmorency"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "Belle-Rivi\u00e8re",
+    "Freq. centroide": 4,
+    "Termes": [
+      "Belle-Rivi\u00e8re",
+      "BelleRivi\u00e8re",
+      "laBelle-Rivi\u00e8re"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Am\u00e9riqueduNord",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Am\u00e9riqueduNord",
+      "ch\u00e2teaudeBeauregard",
+      "l'Am\u00e9riqueduNord"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "Europe",
+    "Freq. centroide": 12,
+    "Termes": [
+      "Europe",
+      "Europ\u00e9ens",
+      "Fumerons",
+      "Huron",
+      "auHavre",
+      "duNord",
+      "l'Europe"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "Lovelace",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Louisiane",
+      "Lovelace",
+      "Nouvelle",
+      "Ponce-Pilate",
+      "Providence"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "Vienne",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Dieppe",
+      "Guyenne",
+      "Risque",
+      "Rivi\u00e8re",
+      "Tisona",
+      "Venise",
+      "Vienne",
+      "Vire",
+      "Virginie",
+      "Virginie\u00a0"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "Continuez",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Chichim\u00e8ques",
+      "Ch\u00e2teaux",
+      "Conduisez",
+      "Consentez",
+      "Continuez",
+      "Contrec\u0153ur",
+      "Expliquez",
+      "Pittsbourg",
+      "Pr\u00e9tendez"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "leRenard-Bleu",
+    "Freq. centroide": 1,
+    "Termes": [
+      "LeRenard-Bleu",
+      "ch\u00e2teaudeMaleval",
+      "leRenard-Bleu"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "Fran\u00e7ais",
+    "Freq. centroide": 55,
+    "Termes": [
+      "Brenngaulois",
+      "Fran\u00e7ais",
+      "Fran\u00e7aises",
+      "Grand-Esprit",
+      "Orl\u00e9ans",
+      "Versailles",
+      "campdesFran\u00e7ais",
+      "\u00c9tats-Unis"
+    ]
+  },
+  "ID 17": {
+    "Centro\u00efde": "Marigots",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Anse-aux-Marigots",
+      "Asseyons",
+      "Carignan",
+      "Gu\u00e9rissons",
+      "Marigots",
+      "Marmousets\u00a0",
+      "Washington",
+      "ansedesMarigots"
+    ]
+  },
+  "ID 18": {
+    "Centro\u00efde": "Am\u00e9rique",
+    "Freq. centroide": 17,
+    "Termes": [
+      "Am\u00e9ricains",
+      "Am\u00e9rique",
+      "Mexique",
+      "l'Am\u00e9rique"
+    ]
+  },
+  "ID 19": {
+    "Centro\u00efde": "LaCouleuvre",
+    "Freq. centroide": 6,
+    "Termes": [
+      "LaCouleuvre"
+    ]
+  },
+  "ID 20": {
+    "Centro\u00efde": "laCouleuvre",
+    "Freq. centroide": 17,
+    "Termes": [
+      "Couleuvre\u00a0",
+      "laCouleuvre"
+    ]
+  },
+  "ID 21": {
+    "Centro\u00efde": "Indien",
+    "Freq. centroide": 41,
+    "Termes": [
+      "Accident\u00e9",
+      "Combien",
+      "Indien",
+      "Indiennes",
+      "Indiens",
+      "Indien\u00a0",
+      "Londres",
+      "Occident",
+      "Qu\u00e9bec",
+      "attendisse\u00a0"
+    ]
+  },
+  "ID 22": {
+    "Centro\u00efde": "oc\u00e9anAtlantique",
+    "Freq. centroide": 1,
+    "Termes": [
+      "oc\u00e9anAtlantique"
+    ]
+  },
+  "ID 23": {
+    "Centro\u00efde": "Canadien",
+    "Freq. centroide": 68,
+    "Termes": [
+      "Canada",
+      "Canadien",
+      "Canadienne",
+      "Canadiens",
+      "Caudebec"
+    ]
+  },
+  "ID 24": {
+    "Centro\u00efde": "Aigle",
+    "Freq. centroide": 10,
+    "Termes": [
+      "Aigle",
+      "Allons",
+      "Anglais",
+      "Angleterre",
+      "Anjou",
+      "Castille",
+      "Celles",
+      "Cholula",
+      "Grigny",
+      "L'Aigle",
+      "Niagara",
+      "Sicile",
+      "Tulle",
+      "l'Aigle",
+      "\u00c9parpill\u00e9"
+    ]
+  },
+  "ID 25": {
+    "Centro\u00efde": "Hand\u00e9",
+    "Freq. centroide": 10,
+    "Termes": [
+      "Hand\u00e9",
+      "Hand\u00e9\u00a0",
+      "Hollande",
+      "Karnac",
+      "Yank\u00e9es",
+      "capduChat",
+      "lac\u00c9ri\u00e9"
+    ]
+  },
+  "ID 26": {
+    "Centro\u00efde": "Bois-Br\u00fbl\u00e9",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Bois-Br\u00fbl\u00e9",
+      "Bois-Br\u00fbl\u00e9s",
+      "Bois-Tracy"
+    ]
+  },
+  "ID 27": {
+    "Centro\u00efde": "\u00eeleAnticosti",
+    "Freq. centroide": 1,
+    "Termes": [
+      "\u00eeleAnticosti"
+    ]
+  },
+  "ID 28": {
+    "Centro\u00efde": "II",
+    "Freq. centroide": 1,
+    "Termes": [
+      "I",
+      "II",
+      "IV",
+      "IX",
+      "Och",
+      "Or",
+      "V",
+      "VI",
+      "XII",
+      "XIII"
+    ]
+  },
+  "ID 29": {
+    "Centro\u00efde": "LeSaint-Laurent",
+    "Freq. centroide": 1,
+    "Termes": [
+      "LeSaint-Laurent",
+      "Saint-Laurent",
+      "fleuveSaint-Laurent"
+    ]
+  },
+  "ID 30": {
+    "Centro\u00efde": "leRenard",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Beauregard",
+      "New-York",
+      "enseigneWard",
+      "leRenard"
+    ]
+  },
+  "ID 31": {
+    "Centro\u00efde": "Manongah\u00e9la",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Manangahela",
+      "Manongah\u00e9la",
+      "Manonghahela",
+      "Manongohela"
+    ]
+  },
+  "ID 32": {
+    "Centro\u00efde": "deFrance",
+    "Freq. centroide": 3,
+    "Termes": [
+      "France",
+      "Rencontre",
+      "TerreSainte",
+      "d'Espagne",
+      "deFrance",
+      "delCarpio",
+      "laFrance"
+    ]
+  },
+  "ID 33": {
+    "Centro\u00efde": "fortDuquesne",
+    "Freq. centroide": 53,
+    "Termes": [
+      "Duquesne",
+      "FortDuquesne",
+      "fortDuquesne",
+      "fortDuquesne\u00a0"
+    ]
+  },
+  "ID 34": {
+    "Centro\u00efde": "Restez",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Asseyez",
+      "Berger",
+      "D\u00e9sarmez",
+      "Lesoleil",
+      "Quittez",
+      "Redoutez",
+      "Reposons",
+      "Restez",
+      "Rouges",
+      "capRosier"
+    ]
+  },
+  "ID 35": {
+    "Centro\u00efde": "capdesMonts-Pel\u00e9s",
+    "Freq. centroide": 1,
+    "Termes": [
+      "capdesMonts-Pel\u00e9s"
+    ]
+  },
+  "ID 36": {
+    "Centro\u00efde": "Pas",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Bas",
+      "Blancs",
+      "Caen",
+      "Est",
+      "Oc\u00e9an",
+      "Paris",
+      "Pas",
+      "Peaux",
+      "Pilma\u00a0"
+    ]
+  }
+}

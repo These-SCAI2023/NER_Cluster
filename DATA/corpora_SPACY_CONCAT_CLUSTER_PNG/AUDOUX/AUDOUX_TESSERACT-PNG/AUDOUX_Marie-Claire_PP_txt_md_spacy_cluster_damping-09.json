@@ -1,0 +1,78 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "Villevieille",
+    "Freq. centroide": 9,
+    "Termes": [
+      "D\u00e9sir\u00e9e-des-Anges",
+      "Villevieille",
+      "Villevieille\u00a0",
+      "chemindeVillevieille"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "ch\u00e2teauduGu\u00e9Perdu",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ch\u00e2teauduGu\u00e9Perdu"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "porte\u00a0",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Rome",
+      "Sologne",
+      "Tireli",
+      "bois\u00a0",
+      "ch\u00e2teau\u00a0\u00bb",
+      "col\u00a0",
+      "communion\u00a0",
+      "plaine\u00a0",
+      "porte\u00a0",
+      "sentier\u00a0",
+      "terre\u00a0"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Gu\u00e9Perdu\u00a0",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Gu\u00e9Perdu",
+      "Gu\u00e9Perdu\u00a0"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Paris",
+    "Freq. centroide": 4,
+    "Termes": [
+      "Castille",
+      "Celles",
+      "Ism\u00e9rie",
+      "M\u00e9lanie",
+      "Paris",
+      "Paris\u00a0",
+      "Sautons",
+      "maison\u00a0",
+      "\u0152il"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "laBlanche",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ChevalBlanc",
+      "deFrance",
+      "laBlanche"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Saint-Jean",
+    "Freq. centroide": 3,
+    "Termes": [
+      "D\u00e9sir\u00e9-des-Anges",
+      "Saint-Jean",
+      "Sainte-Montagne",
+      "SaintesHuiles"
+    ]
+  }
+}

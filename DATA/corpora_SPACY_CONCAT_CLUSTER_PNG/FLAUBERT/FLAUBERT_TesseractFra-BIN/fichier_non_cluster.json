@@ -1,0 +1,5 @@
+[
+  "../DATA/corpora_SPACY_CONCAT/FLAUBERT/FLAUBERT_TesseractFra-BIN/FLAUBERT_MOD/FLAUBERT_education-sentimentale_TesseractFra-BIN.txt_md_spacy.json-concat.json",
+  "../DATA/corpora_SPACY_CONCAT/FLAUBERT/FLAUBERT_TesseractFra-BIN/FLAUBERT_PP/FLAUBERT_education-sentimentale_PP.txt_sm_spacy.json-concat.json",
+  "../DATA/corpora_SPACY_CONCAT/FLAUBERT/FLAUBERT_TesseractFra-BIN/FLAUBERT_PP/FLAUBERT_education-sentimentale_PP.txt_md_spacy.json-concat.json"
+]

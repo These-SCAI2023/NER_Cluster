@@ -1,0 +1,106 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "d\u00e9partementduCher",
+    "Freq. centroide": 1,
+    "Termes": [
+      "d\u00e9partementduCher"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Meunet-sur-Vatan",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Meunet-sur-Vatan"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "LeGrand-Bail",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Grand-Bail",
+      "LeGrand-Bail",
+      "leGrand-Bail"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Incurablesd'Issoudun",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Incurablesd'Issoudun"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Bordinerie",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Bordinerie",
+      "Marguerite",
+      "Normandie",
+      "P\u00e9rinnerie",
+      "Tr\u00e9chauderie",
+      "canaldeBerry"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Paris",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Afrique",
+      "Bail",
+      "Berry",
+      "Blanche",
+      "Bourges",
+      "Croyez",
+      "Folles",
+      "Grise",
+      "Jeanne",
+      "Paris",
+      "Payez-les-moi",
+      "Pierres",
+      "Sais",
+      "laFrance",
+      "\u00c9POUSE"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "petiteJeanne",
+    "Freq. centroide": 2,
+    "Termes": [
+      "LapetiteNannette",
+      "PetiteJeanne",
+      "petiteJeanne"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Veux",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Cher",
+      "FIN",
+      "Issoudun",
+      "Meunet",
+      "Ormeaux",
+      "Tenez",
+      "Vatan",
+      "Veux"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Sainte-Solange",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Hautes-Roches",
+      "Saint-Jean",
+      "Sainte-Solange",
+      "laSaint-Pierre",
+      "sainte-Solange"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "quartierdesHautes-Roches",
+    "Freq. centroide": 1,
+    "Termes": [
+      "quartierdesHautes-Roches"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "quartierdesHautes-Roches",
+    "Freq. centroide": 1,
+    "Termes": [
+      "quartierdesHautes-Roches"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "d\u00e9partementduCher",
+    "Freq. centroide": 1,
+    "Termes": [
+      "d\u00e9partementduCher"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Paris",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Afrique",
+      "Allons",
+      "Bail",
+      "Bordinerie",
+      "Bourges",
+      "Ch\u00e9tif",
+      "Est",
+      "FIN",
+      "Grand-Bail",
+      "GrandBail",
+      "Grise",
+      "LeGrand-Bail",
+      "Normandie",
+      "Paris",
+      "Payez-les-moi",
+      "Pierres",
+      "P\u00e9rinnerie",
+      "Tiens",
+      "Tr\u00e9chauderie",
+      "Viens",
+      "canaldeBerry",
+      "fermedesOrmeaux",
+      "laFrance"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Meunet",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Blanche",
+      "Cher",
+      "Combien",
+      "Folles",
+      "Hautes-Roches",
+      "Issoudun",
+      "Meunet",
+      "Meunet-sur-Vatan",
+      "Nannette",
+      "Ormeaux",
+      "PetiteJeanne",
+      "Saint-Jean",
+      "Sainte-Solange",
+      "deFrance",
+      "laSaint-Pierre",
+      "leGrand-Bail",
+      "sainte-Solange"
+    ]
+  }
+}

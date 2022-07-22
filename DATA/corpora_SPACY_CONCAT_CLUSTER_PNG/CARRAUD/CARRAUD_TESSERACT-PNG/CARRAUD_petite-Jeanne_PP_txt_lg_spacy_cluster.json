@@ -1,0 +1,122 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "d\u00e9partementduCher",
+    "Freq. centroide": 1,
+    "Termes": [
+      "d\u00e9partementduCher"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "fermedesOrmeaux",
+    "Freq. centroide": 1,
+    "Termes": [
+      "fermedesOrmeaux"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "sainte-Solange",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Sainte-Solange",
+      "sainte-Solange"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Meunet-sur-Vatan",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Meunet-sur-Vatan"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Grand-Bail",
+    "Freq. centroide": 25,
+    "Termes": [
+      "Grand-Bail",
+      "GrandBail",
+      "LeGrand-Bail",
+      "canaldeBerry",
+      "leGrand-Bail"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "P\u00e9rinnerie",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Bordinerie",
+      "Nannette",
+      "P\u00e9rinnerie",
+      "Tr\u00e9chauderie"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Viens",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Afrique",
+      "Allons",
+      "Bourges",
+      "Cher",
+      "Combien",
+      "Folles",
+      "Meunet",
+      "Ormeaux",
+      "Paris",
+      "Pierres",
+      "Tiens",
+      "Viens"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Est",
+    "Freq. centroide": 16,
+    "Termes": [
+      "Bail",
+      "Ch\u00e9tif",
+      "Est",
+      "FIN",
+      "Grise",
+      "Issoudun"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Payez-les-moi",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Payez-les-moi"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "Saint-Jean",
+    "Freq. centroide": 8,
+    "Termes": [
+      "PetiteJeanne",
+      "Saint-Jean",
+      "laSaint-Pierre"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Hautes-Roches",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Hautes-Roches"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "laFrance",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Blanche",
+      "Normandie",
+      "deFrance",
+      "laFrance"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "quartierdesHautes-Roches",
+    "Freq. centroide": 1,
+    "Termes": [
+      "quartierdesHautes-Roches"
+    ]
+  }
+}

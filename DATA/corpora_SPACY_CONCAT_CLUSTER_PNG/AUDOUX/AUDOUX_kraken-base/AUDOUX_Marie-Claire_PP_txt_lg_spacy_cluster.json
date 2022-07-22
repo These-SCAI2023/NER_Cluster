@@ -1,0 +1,84 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "ChevalBlanc",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ChevalBlanc"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "col\u00a0",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Celles",
+      "Chicon\u00a0",
+      "Rome",
+      "Sologne",
+      "col\u00a0",
+      "communion\u00a0",
+      "porte\u00a0"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Gu\u00e9Perdu\u00a0",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Gu\u00e9Perdu",
+      "Gu\u00e9Perdu\u00a0",
+      "ch\u00e2teau\u00a0"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Sainte-Montagne",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Sainte-Montagne"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "D\u00e9sir\u00e9e-des-Anges",
+    "Freq. centroide": 22,
+    "Termes": [
+      "D\u00e9sir\u00e9e-des-Anges"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Saintes",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Castille",
+      "Ch\u00e2taigniers",
+      "Saint-Jean",
+      "Saintes",
+      "Sautons"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "M\u00e9lanie",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Ism\u00e9rie",
+      "M\u00e9lanie",
+      "deFrance",
+      "laBlanche"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Tiens",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Paris",
+      "Tiens",
+      "Tireli"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Villevieille",
+    "Freq. centroide": 11,
+    "Termes": [
+      "Villevieille",
+      "Villevieille\u00a0",
+      "chemindeVillevieille"
+    ]
+  }
+}

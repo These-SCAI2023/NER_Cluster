@@ -1,0 +1,433 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "Test",
+    "Freq. centroide": 1,
+    "Termes": [
+      "M\u2019cst",
+      "Remy",
+      "Test",
+      "Therese",
+      "del\u2019",
+      "l\u2019,est",
+      "ms\u2018\ufb01t",
+      "tOt"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Cettejeunesse",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Cettejeunesse"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "~\u2014.tvv.-.\u00ab-.\u2014n-\n\n",
+    "Freq. centroide": 1,
+    "Termes": [
+      "~\u2014.tvv.-.\u00ab-.\u2014n-\n\n"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Far",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Cher",
+      "Clair",
+      "De'",
+      "Diabord",
+      "Etat",
+      "Fa-",
+      "Far",
+      "Fut",
+      "Jeac-",
+      "Ll\u201c?\u2014",
+      "Maria",
+      "Nord",
+      "Pater",
+      "QZ~",
+      "lai\u2019",
+      "tfr\u2018\ufb02",
+      "tu\u2018as"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "petiotDenis",
+    "Freq. centroide": 1,
+    "Termes": [
+      "petiotDenis",
+      "p\u2018ereNom-de\u2014Nom"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Courcz",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Auriez",
+      "Claudc",
+      "Courcz",
+      "Courons",
+      "Jurc",
+      "Rassurez",
+      "Vousjugcz"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Morlin-",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Mm:.\u2018u_-",
+      "Morlin-",
+      "Morlincourt",
+      "Noi\u2018ine",
+      "Nom-de-Nom",
+      "Norine",
+      "Poulains"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Palais\u2014Boyal",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Palais\u2014Boyal"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Z1':.\"n-'.92.\u2018\u00a3\u20184-'.iNW!&-MO\u201d~'\u00a5\"\u00a2M",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Z1':.\"n-'.92.\u2018\u00a3\u20184-'.iNW!&-MO\u201d~'\u00a5\"\u00a2M"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "lcpr\u00e9Brugnon",
+    "Freq. centroide": 1,
+    "Termes": [
+      "lcpr\u00e9Brugnon"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "HM_&.A._-_WW\n\nMON",
+    "Freq. centroide": 1,
+    "Termes": [
+      "HM_&.A._-_WW\n\nMON"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "I",
+    "Freq. centroide": 3,
+    "Termes": [
+      "A",
+      "A_",
+      "B",
+      "E",
+      "EL",
+      "F",
+      "H\u00e9jh",
+      "I",
+      "I.",
+      "I37",
+      "II",
+      "Ia",
+      "Ie",
+      "Io",
+      "J",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "S",
+      "U",
+      "V",
+      "Va",
+      "W",
+      "WA",
+      "_",
+      "b",
+      "pe",
+      "uIi",
+      "v",
+      "|",
+      "\u00a2.",
+      "\u2019"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "M-",
+    "Freq. centroide": 2,
+    "Termes": [
+      "-",
+      "5-",
+      "A-",
+      "AA-",
+      "Ca",
+      "Er",
+      "J-",
+      "L-",
+      "M-",
+      "M7",
+      "MM-\u2018QL",
+      "MWM'",
+      "Ma-\n\n",
+      "Mor-",
+      "Mwn",
+      "M\u2019",
+      "N\u201c",
+      "Om-\u00abd",
+      "W1",
+      "WA-0.x",
+      "_.",
+      "pre\u2019",
+      "uA",
+      "w\u2018-",
+      "\u2018.;--A~",
+      "\u2018_"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "u\n\n",
+    "Freq. centroide": 1,
+    "Termes": [
+      "\"-\n\n",
+      "497\n\n",
+      "51\n\n",
+      "59\n\n",
+      "A\n\n",
+      "A\n\nA",
+      "A-mW\n\n\n\n",
+      "L\n\nI",
+      "MOT\n\n",
+      "M\u00bb\n\n",
+      "U\n\n\n\n",
+      "fu\n\nT",
+      "l\n\n",
+      "ngy",
+      "ou\u2018l",
+      "pum\u2019",
+      "rud\u2019",
+      "u\n\n",
+      "unA",
+      "\u2014.-\n\n",
+      "\u201c\n\n"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "C\u00e9ran",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Artaban",
+      "C\u00e9ran",
+      "H\u201cAnn\u2014",
+      "M.C\u00e9ran",
+      "s47r!g"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "Hommes\u2014sans\u2014T\u00e9tes",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Hommes\u2014sans\u2014T\u00e9tes"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "MONJ'ILLAGE",
+    "Freq. centroide": 1,
+    "Termes": [
+      "M\n\nMONVILLAGE",
+      "MONJ'ILLAGE",
+      "\u201cVILLAGE-\n\n"
+    ]
+  },
+  "ID 17": {
+    "Centro\u00efde": "Ecoutez\ufb02oila",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Ecoutez\ufb02oila"
+    ]
+  },
+  "ID 18": {
+    "Centro\u00efde": "A-____.__.",
+    "Freq. centroide": 1,
+    "Termes": [
+      "A-__,_~",
+      "A-____.__.",
+      "_.___-.-\u2018-"
+    ]
+  },
+  "ID 19": {
+    "Centro\u00efde": "Perp\u00e9tue",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Pcrp\u00e9tue",
+      "Perp\u00e9tue",
+      "Pierrette",
+      "perg\u2018ustum"
+    ]
+  },
+  "ID 20": {
+    "Centro\u00efde": "Allons",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Adonc",
+      "Allons",
+      "A\u2018wuunn",
+      "Filles",
+      "Village",
+      "Voyons",
+      "n13\u00a2sn~"
+    ]
+  },
+  "ID 21": {
+    "Centro\u00efde": "femmcdeJean-",
+    "Freq. centroide": 1,
+    "Termes": [
+      "femmcdeJean-"
+    ]
+  },
+  "ID 22": {
+    "Centro\u00efde": "France",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Apreuve",
+      "Armandine",
+      "Brunelle",
+      "France",
+      "Vince",
+      "laFrance"
+    ]
+  },
+  "ID 23": {
+    "Centro\u00efde": "Bose",
+    "Freq. centroide": 7,
+    "Termes": [
+      "Bassette",
+      "Beste",
+      "Bonsoir",
+      "Bose",
+      "Bosen\u2019",
+      "LaBose",
+      "Messieurs",
+      "Rose",
+      "Rose\n\n",
+      "Rosen\u2019",
+      "Sois",
+      "Vive",
+      "noh\u2018c"
+    ]
+  },
+  "ID 24": {
+    "Centro\u00efde": "Saint-Brunelle",
+    "Freq. centroide": 8,
+    "Termes": [
+      "Saint-Bru-",
+      "Saint-Brunellc",
+      "Saint-Brunelle",
+      "Saint-Quentin"
+    ]
+  },
+  "ID 25": {
+    "Centro\u00efde": "c\u2014\u2018-\u2019?.\u2019Z",
+    "Freq. centroide": 1,
+    "Termes": [
+      "c\u2014\u2018-\u2019?.\u2019Z"
+    ]
+  },
+  "ID 26": {
+    "Centro\u00efde": "Toinon",
+    "Freq. centroide": 8,
+    "Termes": [
+      "En\ufb01n",
+      "Ioisir",
+      "Quoiqu\u2019",
+      "Saint-",
+      "Toinon",
+      "voyait\u00a5on"
+    ]
+  },
+  "ID 27": {
+    "Centro\u00efde": "11\n\ndelaRose",
+    "Freq. centroide": 1,
+    "Termes": [
+      "11\n\ndelaRose"
+    ]
+  },
+  "ID 28": {
+    "Centro\u00efde": "Venez",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Bemblay",
+      "Croyez",
+      "Devinez",
+      "Entendez",
+      "Leonie",
+      "Tenez",
+      "Venez",
+      "Voyez",
+      "V\u2018nez",
+      "linguam",
+      "venais"
+    ]
+  },
+  "ID 29": {
+    "Centro\u00efde": "D\u00e9sir\u00e9e",
+    "Freq. centroide": 3,
+    "Termes": [
+      "D\u00e9sire\u2019",
+      "D\u00e9sir\u00e9c",
+      "D\u00e9sir\u00e9e",
+      "bntaiIIe"
+    ]
+  },
+  "ID 30": {
+    "Centro\u00efde": "Parisien",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Pardonnez",
+      "Paris",
+      "Parisien",
+      "Parisiens"
+    ]
+  },
+  "ID 31": {
+    "Centro\u00efde": "Sainte-Radegonde",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Sainte-Radegonde"
+    ]
+  },
+  "ID 32": {
+    "Centro\u00efde": "Jeacquet",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Jcacquet",
+      "Jeacquet",
+      "Jeacqueta",
+      "Jean-Claude",
+      "Jean\u2014Claude"
+    ]
+  },
+  "ID 33": {
+    "Centro\u00efde": "Rosetravaillcra",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Rosetravaillcra"
+    ]
+  },
+  "ID 34": {
+    "Centro\u00efde": "Clarisse",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Carriere",
+      "Clarissa",
+      "Clarisse",
+      "Iaisse"
+    ]
+  },
+  "ID 35": {
+    "Centro\u00efde": "Jel\u2019abomine",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Jel\u2019abomine"
+    ]
+  }
+}

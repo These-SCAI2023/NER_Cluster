@@ -1,0 +1,592 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "Jec\u00e9derai",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Jec\u00e9derai",
+      "JenyManquerai",
+      "Jerendrai"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Sissone",
+    "Freq. centroide": 16,
+    "Termes": [
+      "Espagne",
+      "Sissone",
+      "Sissone\n\f\n",
+      "Soissons"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "UrsulinesdeLaon?\n\n",
+    "Freq. centroide": 1,
+    "Termes": [
+      "UrsulinesdeLaon?\n\n"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Oui",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Dreux",
+      "Est-il",
+      "Etil",
+      "Leur",
+      "Loui-",
+      "Lui",
+      "Oh!",
+      "Ondit",
+      "Ou-",
+      "Oui",
+      "Quincy",
+      "Quoi",
+      "Rhin",
+      "\u00celira"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Rochefort",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Hautefort",
+      "Rochefort",
+      "Rochetort"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Ma-\n\n",
+    "Freq. centroide": 2,
+    "Termes": [
+      "La-\n\n",
+      "Ma-\n\n",
+      "Ma-\n\n|",
+      "Ma-\n\f\n",
+      "Pi-\n\f\n",
+      "j'ai\n\n",
+      "pare\n\n"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "abbayedePr\u00e9monir\u00e9",
+    "Freq. centroide": 1,
+    "Termes": [
+      "abbayedePr\u00e9monir\u00e9"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "Saint-Quentin",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Saint-Quentin"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "Lavalli\u00e8re",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Caract\u00e8re",
+      "Lavalli\u00e8re",
+      "Valli\u00e8re"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "\u00c9lle",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Albret",
+      "Allemagne",
+      "Delette",
+      "Ell\u00e9",
+      "Li\u00e9e",
+      "M.de",
+      "Nicolle",
+      "TESe",
+      "Villeroi",
+      "\u00c9lle",
+      "\u00celes"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Craignez",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Champagne",
+      "Charente",
+      "Chavignon",
+      "Convenez",
+      "Craignez",
+      "Grignan",
+      "Mortagne",
+      "Necraignezrien"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "T\u00e2chez",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Cachez",
+      "Recevez",
+      "Taisez",
+      "Tenez",
+      "T\u00e2chez",
+      "_\u2014T\u00e2che"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "Louison",
+    "Freq. centroide": 12,
+    "Termes": [
+      "Louison",
+      "LouisonP3\n\n",
+      "Montespan",
+      "R\u00e9jouissez"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "|\n\n",
+    "Freq. centroide": 1,
+    "Termes": [
+      "4\n\n",
+      "59\n\n",
+      "65\n\n",
+      "95\n\n",
+      "P\n\n",
+      "a\n\n",
+      "ci\n\n",
+      "c\u00e9\n\n",
+      "u\n\f\n",
+      "|\n\n",
+      "|\n\f\n",
+      "\u00cf]l",
+      "\u00ee\n\f\n"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "Corneille",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Connaissent",
+      "Corneille",
+      "Gabrielle",
+      "Henneite",
+      "Surveill\u00e9e",
+      "Versailles"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "Vraiment",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Lamibe\u00eft",
+      "Providence",
+      "Pr\u00e9montr\u00e9",
+      "Vraiment",
+      "V\u00e4imera",
+      "le.sergent"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "Couey",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Ajoutez",
+      "Anizy",
+      "Bre|",
+      "Carrousel",
+      "Clany",
+      "Corcy",
+      "Corey",
+      "Coss\u00e9",
+      "Coucy",
+      "Couey",
+      "Cour",
+      "Cou\u00eby",
+      "C\u0153ur-de-Roy",
+      "Dites",
+      "Joguet",
+      "Jogu\u00eat",
+      "Maures",
+      "Rou-",
+      "Roucy",
+      "Roucy\n\n",
+      "Tonnay"
+    ]
+  },
+  "ID 17": {
+    "Centro\u00efde": "Soyez",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Croyez",
+      "N'avez",
+      "Songea",
+      "Soyez",
+      "Suivrez",
+      "Venez",
+      "Voyez",
+      "\u00abSoyez"
+    ]
+  },
+  "ID 18": {
+    "Centro\u00efde": "Saint-Jean-d'Acre",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Saint-Jean-d'Acre"
+    ]
+  },
+  "ID 19": {
+    "Centro\u00efde": "ch\u00e2teaudeVersailles",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ch\u00e2teaudeVersailles"
+    ]
+  },
+  "ID 20": {
+    "Centro\u00efde": "carioledeM.C\u0153ur-de-Roy",
+    "Freq. centroide": 1,
+    "Termes": [
+      "carioledeM.C\u0153ur-de-Roy"
+    ]
+  },
+  "ID 21": {
+    "Centro\u00efde": "L",
+    "Freq. centroide": 1,
+    "Termes": [
+      "-",
+      "Al",
+      "E",
+      "EL",
+      "Eh",
+      "I",
+      "Ia",
+      "L",
+      "LT",
+      "LTJ",
+      "M",
+      "O\u00f9",
+      "P",
+      "|",
+      "\u0178",
+      "\u2019"
+    ]
+  },
+  "ID 22": {
+    "Centro\u00efde": "75\n\nIlsortit",
+    "Freq. centroide": 1,
+    "Termes": [
+      "75\n\nIlsortit"
+    ]
+  },
+  "ID 23": {
+    "Centro\u00efde": "N'approchezpas",
+    "Freq. centroide": 1,
+    "Termes": [
+      "N'approchezpas"
+    ]
+  },
+  "ID 24": {
+    "Centro\u00efde": "Vois",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Aixin",
+      "Amboise",
+      "Anisy",
+      "Choi-",
+      "Grois",
+      "Nais-",
+      "Paris",
+      "Sais",
+      "Sis-",
+      "Tours",
+      "VeIrons",
+      "Venise",
+      "Voil\u00e0",
+      "Vois",
+      "Vorray",
+      "Vo\u00f1s"
+    ]
+  },
+  "ID 25": {
+    "Centro\u00efde": "Pichard",
+    "Freq. centroide": 1,
+    "Termes": [
+      "M.Chardu",
+      "Picardie",
+      "Picards",
+      "Pichard",
+      "rieCharge"
+    ]
+  },
+  "ID 26": {
+    "Centro\u00efde": "Mesdemoiselles",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Mademoiselle",
+      "Mesdemoiselles"
+    ]
+  },
+  "ID 27": {
+    "Centro\u00efde": "J'aiconnuR\u00e9mond",
+    "Freq. centroide": 1,
+    "Termes": [
+      "J'aiconnuR\u00e9mond"
+    ]
+  },
+  "ID 28": {
+    "Centro\u00efde": "Saint-Gabriel",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Saint-Gabriel"
+    ]
+  },
+  "ID 29": {
+    "Centro\u00efde": "Jamais",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Chapelain",
+      "J'ai",
+      "Jabaillie",
+      "Jamais",
+      "Jaquais",
+      "Navailles",
+      "Orl\u00e9ans",
+      "Ramasse"
+    ]
+  },
+  "ID 30": {
+    "Centro\u00efde": "ch\u00e2teaudePinon",
+    "Freq. centroide": 3,
+    "Termes": [
+      "ch\u00e2teau\n\ndePinon",
+      "ch\u00e2teaud'Anizy",
+      "ch\u00e2teaude",
+      "ch\u00e2teaudeFran\u00e7ois",
+      "ch\u00e2teaudePinon",
+      "ch\u00e2teaudePinon\n\n",
+      "terredePinon"
+    ]
+  },
+  "ID 31": {
+    "Centro\u00efde": "Ansizy-le-Ch\u00e2tel",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Ansizy-le-Ch\u00e2tel"
+    ]
+  },
+  "ID 32": {
+    "Centro\u00efde": "France",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Blanche",
+      "CourdeFrance",
+      "Flandre",
+      "France",
+      "F\u00e9pondre",
+      "Gr\u00e2ces",
+      "Normandie",
+      "Tarenie",
+      "deFrance",
+      "laFrance",
+      "\u00c9cudeFrance",
+      "\u00c9minence"
+    ]
+  },
+  "ID 33": {
+    "Centro\u00efde": "Vennaede\n\f\n318DECHATEAUDEPINON",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Vennaede\n\f\n318DECHATEAUDEPINON"
+    ]
+  },
+  "ID 34": {
+    "Centro\u00efde": "Ma-",
+    "Freq. centroide": 7,
+    "Termes": [
+      "AI-",
+      "Am-",
+      "Ce-",
+      "Char-",
+      "Ha\u00ef-",
+      "Hen-",
+      "H\u00e9las",
+      "La-",
+      "M.",
+      "MM.",
+      "Ma-",
+      "Mada-",
+      "Mada-|",
+      "Mademoi-",
+      "Mais",
+      "Mas",
+      "Moi",
+      "Pas",
+      "Yage"
+    ]
+  },
+  "ID 35": {
+    "Centro\u00efde": "Hennecourt",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Cr\u00e8vec\u0153ur",
+      "Hennecourt",
+      "Heudicourt",
+      "Houdancourt",
+      "Lanissecourt"
+    ]
+  },
+  "ID 36": {
+    "Centro\u00efde": "Villers-Cotierets",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Villers-Cotierets"
+    ]
+  },
+  "ID 37": {
+    "Centro\u00efde": "Monsieur",
+    "Freq. centroide": 3,
+    "Termes": [
+      "Henrietie",
+      "Messieurs",
+      "Monsieur",
+      "Moyenbrie",
+      "Vousmejurez",
+      "vous\u2018suivre"
+    ]
+  },
+  "ID 38": {
+    "Centro\u00efde": "Villers-Cotterets",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Villers-Cotterets"
+    ]
+  },
+  "ID 39": {
+    "Centro\u00efde": "113\n\n",
+    "Freq. centroide": 1,
+    "Termes": [
+      "113\n\n",
+      "183\n\n",
+      "193\n\n",
+      "313\n\n",
+      "f63\n\n"
+    ]
+  },
+  "ID 40": {
+    "Centro\u00efde": "Bouvines",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Aucunes",
+      "Boh\u00e9miens",
+      "Bourgogne",
+      "Bouvines",
+      "Ursulines"
+    ]
+  },
+  "ID 41": {
+    "Centro\u00efde": "LeursMajest\u00e9s",
+    "Freq. centroide": 1,
+    "Termes": [
+      "LeursMajest\u00e9s"
+    ]
+  },
+  "ID 42": {
+    "Centro\u00efde": "Fontainebleau",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Fontainebleau"
+    ]
+  },
+  "ID 43": {
+    "Centro\u00efde": "LaMothe",
+    "Freq. centroide": 1,
+    "Termes": [
+      "LaMothe",
+      "Lacomtesse",
+      "Lafarre",
+      "Lameth",
+      "Mothe"
+    ]
+  },
+  "ID 44": {
+    "Centro\u00efde": "rueSaint-Honor\u00e9",
+    "Freq. centroide": 1,
+    "Termes": [
+      "rueSaint-Honor\u00e9"
+    ]
+  },
+  "ID 45": {
+    "Centro\u00efde": "Nousdemeureronstouteslesdeux",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Nousdemeureronstouteslesdeux"
+    ]
+  },
+  "ID 46": {
+    "Centro\u00efde": "CHATEAU",
+    "Freq. centroide": 4,
+    "Termes": [
+      "7CENTPRE",
+      "CHATEAU",
+      "CHATEAUDEPINON"
+    ]
+  },
+  "ID 47": {
+    "Centro\u00efde": "Bussy",
+    "Freq. centroide": 28,
+    "Termes": [
+      "Aussit\u00f4t",
+      "Beaupr\u00e9",
+      "Bussy",
+      "Bussy-",
+      "Bussyd\u2019"
+    ]
+  },
+  "ID 48": {
+    "Centro\u00efde": "Louis-le-Grand",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Louis-le-Grand",
+      "Louis-le-Gros"
+    ]
+  },
+  "ID 49": {
+    "Centro\u00efde": "C\u00e9ries",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Carm\u00e9lites",
+      "Cette",
+      "Cro\u00efx",
+      "C\u00e9ries",
+      "Estr\u00e9es",
+      "Gerder\u00e9",
+      "Hesp\u00e9rides",
+      "p\u00e8re;'ses"
+    ]
+  },
+  "ID 50": {
+    "Centro\u00efde": "deCorcy",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ch\u00e8reCorcy",
+      "damedeCorcy",
+      "deCorcy",
+      "deCoucy"
+    ]
+  },
+  "ID 51": {
+    "Centro\u00efde": "Non",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Donne",
+      "Inconnu",
+      "Jen\u2019",
+      "Laon",
+      "Non",
+      "Noyon",
+      "PINON",
+      "Pinon",
+      "R\u00e9mond",
+      "e.n\u2019"
+    ]
+  }
+}

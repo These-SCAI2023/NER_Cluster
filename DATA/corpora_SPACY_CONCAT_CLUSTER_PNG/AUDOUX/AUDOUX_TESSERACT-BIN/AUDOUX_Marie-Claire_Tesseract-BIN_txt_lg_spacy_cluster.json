@@ -1,0 +1,191 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "ChevalBlanc",
+    "Freq. centroide": 1,
+    "Termes": [
+      "ChevalBlanc"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Bel-(Eil",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Bel-(Eil",
+      "Bel-(Ell"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "\ufb01lles",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Clair",
+      "Cotes",
+      "Deslois",
+      "I'e'",
+      "M\u00e9la-",
+      "Paris",
+      "Ville-",
+      "pliers",
+      "soleil",
+      "\ufb01lles"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "apergut",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Gu\u00e9Perdu",
+      "Orphelinat",
+      "apergut"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "D\u00e9sir\u00e9e-des-Anges",
+    "Freq. centroide": 8,
+    "Termes": [
+      "D\u00e9sir\u00e9e-des-Anges",
+      "D\u00e9sir\u00e9e-des\u2014Anges",
+      "StrutD\u00e9sir\u00e9e-des-Anges"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "Vin",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Aun",
+      "Brabant",
+      "Chicon",
+      "Gu\u00e9",
+      "J\u2018e",
+      "Ti-",
+      "Tiens",
+      "Vin",
+      "Vins'",
+      "Voila",
+      "leil"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Villevieille",
+    "Freq. centroide": 4,
+    "Termes": [
+      "Villevieillc",
+      "Villevieille"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "R\u00e9venlle",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Castille",
+      "R\u00e9venlle",
+      "sauvent\u20ac"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "E",
+    "Freq. centroide": 1,
+    "Termes": [
+      "A",
+      "B",
+      "CLAIR",
+      "Ca",
+      "E",
+      "En\ufb01n",
+      "Est",
+      "HARE",
+      "I'",
+      "Q",
+      "W",
+      "i1",
+      "i\u2019",
+      "\u00e9"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "Monsieutlecut\u00e9",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Monsieutlecut\u00e9"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Saintes",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Paques",
+      "Saint-Jean",
+      "Saintes",
+      "saintes"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "ieune",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Iappe",
+      "Jeune",
+      "Melanie",
+      "Sologne",
+      "Tireli",
+      "cornme",
+      "deFrance",
+      "dix\u2014neuf",
+      "ieune",
+      "ieunes",
+      "iourpres",
+      "lette"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "lach\u00e9vre",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Voulu\u00e9tre",
+      "laBlanche",
+      "lach\u00e9vre"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "Sainte-Montagne",
+    "Freq. centroide": 5,
+    "Termes": [
+      "Sainte-Montagne"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "Ism\u00e9rie",
+    "Freq. centroide": 19,
+    "Termes": [
+      "Int\u00e9rieur",
+      "Ism\u00e9rie"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "smurMarie-Aimee",
+    "Freq. centroide": 3,
+    "Termes": [
+      "SaturMarie-Aimee",
+      "ScentMarie-Aimee",
+      "sceurMarie-Aimee",
+      "smurMarie-Aimee",
+      "smutMarie-Aimee"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "coux",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Ileux",
+      "Iusqu\u2019",
+      "No\u00e9l",
+      "Pau-",
+      "Rome",
+      "\\re-",
+      "coux",
+      "c\u00e9t\u00e9",
+      "scnur",
+      "souf\ufb01'ir"
+    ]
+  }
+}

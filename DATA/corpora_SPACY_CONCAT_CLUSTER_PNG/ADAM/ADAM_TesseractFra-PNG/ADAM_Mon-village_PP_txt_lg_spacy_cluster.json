@@ -1,0 +1,161 @@
+{
+  "ID 0": {
+    "Centro\u00efde": "r\u00e9servedelaRose",
+    "Freq. centroide": 1,
+    "Termes": [
+      "r\u00e9servedelaRose"
+    ]
+  },
+  "ID 1": {
+    "Centro\u00efde": "Hommes-sans-T\u00eates",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Hommes-sans-T\u00eates"
+    ]
+  },
+  "ID 2": {
+    "Centro\u00efde": "Riez",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Agr\u00e9ez",
+      "Alger",
+      "Cachez",
+      "Dizy",
+      "Riez",
+      "Rose"
+    ]
+  },
+  "ID 3": {
+    "Centro\u00efde": "Bassette",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Bassette",
+      "Cassiop\u00e9e",
+      "Fillettes",
+      "Messieurs"
+    ]
+  },
+  "ID 4": {
+    "Centro\u00efde": "Savoyard",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Savoyard",
+      "duNord",
+      "petiotSavoyard"
+    ]
+  },
+  "ID 5": {
+    "Centro\u00efde": "bras-le-corps",
+    "Freq. centroide": 1,
+    "Termes": [
+      "bras-le-corps"
+    ]
+  },
+  "ID 6": {
+    "Centro\u00efde": "Doucettement",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Doucettement"
+    ]
+  },
+  "ID 7": {
+    "Centro\u00efde": "colonneVend\u00f4me",
+    "Freq. centroide": 1,
+    "Termes": [
+      "colonneVend\u00f4me"
+    ]
+  },
+  "ID 8": {
+    "Centro\u00efde": "IV",
+    "Freq. centroide": 1,
+    "Termes": [
+      "B",
+      "CUR\u00c9",
+      "Est",
+      "IV",
+      "IX",
+      "Las",
+      "M'"
+    ]
+  },
+  "ID 9": {
+    "Centro\u00efde": "Morlincourt",
+    "Freq. centroide": 18,
+    "Termes": [
+      "Morlincourt",
+      "Morlinval"
+    ]
+  },
+  "ID 10": {
+    "Centro\u00efde": "Sainte-Radegonde",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Sainte-Radegonde"
+    ]
+  },
+  "ID 11": {
+    "Centro\u00efde": "Brugnon",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Armandine",
+      "Brugnon",
+      "Toinon",
+      "couventBrugnon",
+      "pr\u00e9Brugnon"
+    ]
+  },
+  "ID 12": {
+    "Centro\u00efde": "Saint-Quentin",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Saint-Brunelle",
+      "Saint-Quentin"
+    ]
+  },
+  "ID 13": {
+    "Centro\u00efde": "Sens",
+    "Freq. centroide": 1,
+    "Termes": [
+      "MOISSON",
+      "Manot",
+      "Sens",
+      "Tiens",
+      "V\u00e9nus",
+      "\u00c9tat"
+    ]
+  },
+  "ID 14": {
+    "Centro\u00efde": "deFrance",
+    "Freq. centroide": 1,
+    "Termes": [
+      "B\u00e9r\u00e9nice",
+      "Franciers",
+      "Jeacquet",
+      "deFrance",
+      "laFrance"
+    ]
+  },
+  "ID 15": {
+    "Centro\u00efde": "Parisien",
+    "Freq. centroide": 2,
+    "Termes": [
+      "Paris",
+      "Parisien",
+      "Parisiens"
+    ]
+  },
+  "ID 16": {
+    "Centro\u00efde": "Courons",
+    "Freq. centroide": 1,
+    "Termes": [
+      "Courons",
+      "C\u00e9ran",
+      "Norine",
+      "Parlons",
+      "Poulains",
+      "Tour",
+      "Toussaint",
+      "T\u00e2chons"
+    ]
+  }
+}
