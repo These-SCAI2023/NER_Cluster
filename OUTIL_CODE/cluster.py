@@ -1,19 +1,13 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 11 11:16:20 2022
-
-@author: antonomaz
-"""
-
-
 import numpy as np
 from sklearn.cluster import AffinityPropagation
+from sklearn.neighbors import DistanceMetric
+from sklearn.feature_extraction.text import CountVectorizer
 import distance
+import sklearn
 import json
 import glob
-import re
 from collections import OrderedDict
+
 
 def lire_fichier (chemin):
     with open(chemin) as json_data: 
@@ -31,30 +25,29 @@ def stocker(chemin,contenu):                                                    
     w=open(chemin,"w")                                                          #ouverture du fichier en mode écriture
     w.write(json.dumps(contenu, indent=2))                                      #écriture du contenu dans le fichier
     w.close()  
-
-
-
-
-
-path_copora = "../DATA/corpora_SPACY_CONCAT/*/*"
+#
+path_copora = "../DATA/corpora_SPACY2.3.5_CLUSTER/DAUDET/DAUDET_kraken-base"
 #path_copora = "../DATA/AIMARD_euclidean_damping09/*/*"
 
 
 for subcorpus in glob.glob(path_copora):
 #    print("SUBCORPUS***",subcorpus)
     liste_nom_fichier =[]
-    for path in glob.glob("%s/*/*.json"%subcorpus):
+    for path in glob.glob("%s/DAUDET_MOD/*lg_spacy.json-concat.json"%subcorpus):
 #        print("PATH*****",path)
         
         nom_fichier = nomfichier(path)
 #        print(nom_fichier)
         liste=lire_fichier(path)
-##### FREQUENCE ########
+        
+#### FREQUENCE ########
         
         dic_mots={}
         i=0
+    
         
-        for mot in liste:
+        for mot in liste: 
+            
             if mot not in dic_mots:
                 dic_mots[mot] = 1
             else:
@@ -62,30 +55,70 @@ for subcorpus in glob.glob(path_copora):
                 #dic_langues[langue][mot] = dic_langues[langue][mot] + 1
         
         i += 1
-    #    print(dic_mots)
+        #    print(dic_mots)
         new_d = OrderedDict(sorted(dic_mots.items(), key=lambda t: t[0]))
-    
-#        print(new_d)
-#        freq=len(dic_mots.keys())
         
+#        print(new_d)
+        freq=len(dic_mots.keys())
+        
+        
+#### VECTORISATION
+        #####SI CORRECTION SUR LA LISTE 
+#        texte=",".join(liste)
+#        print(texte)
+#        sup_chaine=re.sub("Ce |ce |Les |Les |les |Si |si |Sa |sa |Je |je |Eh |Tu |tu |il |Il |L*","",texte)
+#        liste_sup_chaine=sup_chaine.split(",")
+#        print(liste_sup_chaine)
+#        Set_00 = set(liste_sup_chaine)
+#        print(Set_00)
+
         Set_00 = set(liste)
         Liste_00 = list(Set_00)
         dic_output = {}
-        i=0
+        liste_words=[]
+        matrice=[]
         
+        for l in Liste_00:
+            if len(l)!=1:
+                liste_words.append(l)
+
         try:
-            words = np.asarray(Liste_00) #So that indexing with a list will work
-            lev_similarity = -1*np.array([[distance.levenshtein(w1,w2) for w1 in words] for w2 in words])
+            words = np.asarray(liste_words) #So that indexing with a list will work
+            for w in words:
+                liste_vecteur=[]
             
-            affprop = AffinityPropagation(affinity="precomputed", damping= 0.9, random_state = None)
-#            affprop = AffinityPropagation(affinity="precomputed", damping= 0.5, random_state = None) 
-            affprop.fit(lev_similarity)
+                    
+                for w2 in words:
+                
+                        V = CountVectorizer(ngram_range=(2,3), analyzer='char')# Vectorisation bigramme et trigramme de caractères 
+#                        dist = DistanceMetric.get_metric("jaccard") #choix de la distance de jaccard
+                        X = V.fit_transform([w,w2]).toarray()
+#                        distance_tab1=dist.pairwise(X) # calcul pour la distance de jaccard
+                        distance_tab1=sklearn.metrics.pairwise.cosine_distances(X) # Distance avec cosinus            
+                        liste_vecteur.append(distance_tab1[0][1])# stockage de la mesure de similarité
+                    
+            #    print(liste_vecteur)
+            
+            
+            #  
+                matrice.append(liste_vecteur)
+            matrice_def=-1*np.array(matrice)
+            #print(matrice)
+            
+    ##### CLUSTER
+            
+            ###lev_similarity = -1*np.array([[distance.levenshtein(w1,w2) for w1 in words] for w2 in words])   
+            ###affprop = AffinityPropagation(affinity="precomputed", damping= 0.9, random_state = None)
+            #affprop.fit(lev_similarity)        
+            affprop = AffinityPropagation(affinity="precomputed", damping= 0.5, random_state = None) 
+    
+            affprop.fit(matrice_def)
             for cluster_id in np.unique(affprop.labels_):
                 exemplar = words[affprop.cluster_centers_indices_[cluster_id]]
                 cluster = np.unique(words[np.nonzero(affprop.labels_==cluster_id)])
                 cluster_str = ", ".join(cluster)
                 cluster_list = cluster_str.split(", ")
-#                print(" - *%s:* %s" % (exemplar, cluster_str))                
+            #                print(" - *%s:* %s" % (exemplar, cluster_str))                
                 Id = "ID "+str(i)
                 for cle, dic in new_d.items(): 
                     if cle == exemplar:
@@ -95,37 +128,17 @@ for subcorpus in glob.glob(path_copora):
                         dic_output[Id]["Termes"] = cluster_list
                 
                 i=i+1
-            stocker("%s/%s_cluster_damping-09.json"%(subcorpus,nom_fichier),dic_output)
-        except :
-            
+            #    print(dic_output)
+            stocker("%s/%s_cluster-consinus-2-3-clean.json"%(subcorpus,nom_fichier),dic_output)
+
+        except :        
             print("**********Non OK***********", path)
+
+    
             liste_nom_fichier.append(path)
-            stocker("%s/fichier_non_cluster_damping-09.json"%subcorpus, liste_nom_fichier)
+            stocker("%s/fichier_non_cluster.json"%subcorpus, liste_nom_fichier)
             
             continue 
-   
-#entite =  lire_fichier("../DATA/AIMARD-TRAPPEURS/AIMARD-TRAPPEURS_kraken-base/AIMAR-TRAPPEURS_REF/AIMARD_les-trappeurs_REF.txt_lg_spacy.json-concat.json")   
-##words = "YOUR WORDS HERE".split(" ") #Replace this line
-#print(len(entite))
-#entite= set(entite)
-#print(len(entite))
-#entite=list(entite)
-#words = np.asarray(entite) #So that indexing with a list will work
-#lev_similarity = -1*np.array([[distance.levenshtein(w1,w2) for w1 in words] for w2 in words])
-#
-#affprop = AffinityPropagation(affinity="precomputed", damping=0.5)
-#affprop.fit(lev_similarity)
-#for cluster_id in np.unique(affprop.labels_):
-#    exemplar = words[affprop.cluster_centers_indices_[cluster_id]]
-#    cluster = np.unique(words[np.nonzero(affprop.labels_==cluster_id)])
-#    cluster_str = ", ".join(cluster)
-#    print(" - *%s:* %s" % (exemplar, cluster_str))   
-    
-
+#   
 
     
-    
-
-        
-        
-          
